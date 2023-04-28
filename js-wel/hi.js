@@ -64,7 +64,7 @@ var msg;            // Message
 
 // Select message to write based on score
 if (score > pass) {
-  msg = 'Congratulations, you have been granted access to me page!';
+  msg = 'Congratulations human, you have been granted access to my page!';
 } else {
   msg = 'Have another go!';
 }
