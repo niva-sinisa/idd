@@ -7,6 +7,9 @@ by your HTML code files based on the <link> tag . */
 
 
 body {
+	background-image: url("../images-wel/bkg.jpg");
+	background-repeat: repeat;
+	background-attachment: fixed;
 	color: rgb(243,186,22);  /*goldenyellow RGB */
 	background-color: #4f5255; /*set different background colors  for a whole page*/
 	padding: 10px;
