@@ -6,7 +6,7 @@ by your HTML code files based on the <link> tag. */
 			} /*sans-serif (+1)*/
 
 				body {
-				background-image: url("../images-wel/bkg.jpg");
+				background-image: url("../bkg.jpg");
 				background-repeat: repeat;
 				background-attachment: fixed;
 				color: rgb(243,186,22);  /*goldenyellow RGB */
